@@ -1,0 +1,14 @@
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\bin\Debug\net6.0\AndOperatorwithrangers.exe
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\bin\Debug\net6.0\AndOperatorwithrangers.deps.json
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\bin\Debug\net6.0\AndOperatorwithrangers.runtimeconfig.json
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\bin\Debug\net6.0\AndOperatorwithrangers.dll
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\bin\Debug\net6.0\AndOperatorwithrangers.pdb
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\AndOperatorwithrangers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\AndOperatorwithrangers.AssemblyInfoInputs.cache
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\AndOperatorwithrangers.AssemblyInfo.cs
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\AndOperatorwithrangers.csproj.CoreCompileInputs.cache
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\AndOperatorwithrangers.dll
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\refint\AndOperatorwithrangers.dll
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\AndOperatorwithrangers.pdb
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\AndOperatorwithrangers.genruntimeconfig.cache
+C:\Users\Maarika\source\repos\Week4Loops\Week5AndoR\AndOperatorwithrangers\obj\Debug\net6.0\ref\AndOperatorwithrangers.dll

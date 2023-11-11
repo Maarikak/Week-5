@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AndOperatorwithrangers/1.0.0": {
+        "runtime": {
+          "AndOperatorwithrangers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AndOperatorwithrangers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
